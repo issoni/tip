@@ -4,7 +4,7 @@ tip is a tip calculator application for iOS.
 
 Submitted by: Ishika Soni 
 
-Time spent: 6 hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
